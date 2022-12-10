@@ -15,4 +15,4 @@
 
 ## Some Extra funny Code pracitce
 ### Measure of Center & Spred
-- you can see class 😃[here](/Math/JupyterNotes/DescriptivestatsNotes.ipynb) i build to get `mean`, `mod`, `median`, `variance` & `standard deviation`
+- you can see `python class` 😃[here](/Math/JupyterNotes/DescriptivestatsNotes.ipynb) i build to get `mean`, `mod`, `median`, `variance` & `standard deviation`
