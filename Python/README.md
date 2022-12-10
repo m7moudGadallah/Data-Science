@@ -3,8 +3,8 @@
 ## Courses
 |Course|Platform|
 |------|--------|
-|[Basics](https://classroom.udacity.com/courses/ud1110)|Udacity|
-|[OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)|Datacamp|
+|[Basics](https://classroom.udacity.com/courses/ud1110)|`Udacity`|
+|[OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)|`Datacamp`|
 
 
 
