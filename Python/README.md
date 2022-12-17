@@ -13,3 +13,4 @@
 |-----|-------|
 |Python&OOP|[pdf](/Python/pdfFiles/Python.pdf)|
 |Numpy|[jupyter notebook](/Python/JupyterNotes/numPyNotes.ipynb) `&` [pdf](/Python/pdfFiles/numPyNotes.pdf)|
+|Pandas|[jupyter notebook](/Python/JupyterNotes/pandasNotes.ipynb)|
