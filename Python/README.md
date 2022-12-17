@@ -12,4 +12,4 @@
 |Topic|Summary|
 |-----|-------|
 |Python&OOP|[pdf](/Python/pdfFiles/Python.pdf)|
-|Numpy|[jupyter notebook](/Python/JupyterNotes/numPyNotes.ipynb)|
+|Numpy|[jupyter notebook](/Python/JupyterNotes/numPyNotes.ipynb) `&` [pdf](/Python/pdfFiles/numPyNotes.pdf)|
